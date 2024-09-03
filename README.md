@@ -1,7 +1,7 @@
 ## Prazer, Vitória!
 ### Sou aspirante a especialista em TI e engenheira de software.
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/v1t0r14.v4z/) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitoria-vaz-technology/) 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitoria-vaz-technology/) 
 
 ![Vitoria's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitoria-vaz&show_icons=true&theme=synthwave)
 
