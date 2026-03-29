@@ -6,7 +6,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitoria-vaz-technology/) 
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoria-vaz&layout=compact&langs_count=10&theme=tokyonight" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoria-vaz&layout=compact&langs_count=10&theme=synthwave" />
 </p>
 
 ## Tecnologias que utilizo
