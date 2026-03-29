@@ -3,7 +3,9 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitoria-vaz-technology/) 
 
-![Vitoria's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitoria-vaz&show_icons=true&theme=synthwave)
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoria-vaz&layout=compact&langs_count=10&theme=synthwave" />
+</p>
 
 ## Tecnologias que utilizo
 
