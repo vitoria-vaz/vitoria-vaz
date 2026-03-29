@@ -1,5 +1,7 @@
 ## Prazer, Vitória!
 ### Sou aspirante a especialista em TI e engenheira de software.
+- 📚 Membro @petsi-ufu
+- 🧑‍💻 Intern at Bradesco 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitoria-vaz-technology/) 
 
